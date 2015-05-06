@@ -83,6 +83,6 @@
         "Type to search....": "Unos za traženje....",
         "AJAX error. See console for more details.": "AJAX greška. Pogledajte log za više informacija.",
         "Field should be equal to ": "Sadržaj polja treba biti jednak ", 
-        "Reload data in the list": "Ponovno učitati podatke u listi"                        
+        "Reload data in the list": "Ponovno učitati podatke u listu"                        
     }
 }
